@@ -6,11 +6,23 @@ version control system
 1st time :
 git init --for initlization
 git add --> for adding files /folder/videos/image 
-git -m "msg" ---->for commiting
-         git config --global.email "resister email"/
-         git config --global.username "username"
+git -m "msg"                         ---->for commiting
+         git config                 --global.email "resister email"/
+         git config                --global.username "username"
 git remote add origin repository link (paste)
-git push origin master/main--git push origin main --force
+git push origin master-----/main      --git push origin main --force
 
 ------------------------------------------------------------
 
+2 nd time to same repository
+git add .
+git commit -m "msg"
+git push origin master
+
+working on different repository
+
+git init 
+git add
+git commit -m "msg"
+git remote add origin repository link(paste)
+git push origin master
