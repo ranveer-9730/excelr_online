@@ -1,0 +1,16 @@
+git 
+-------------------------------------------------------------
+version control system
+
+
+1st time :
+git init --for initlization
+git add --> for adding files /folder/videos/image 
+git -m "msg" ---->for commiting
+         git config --global.email "resister email"/
+         git config --global.username "username"
+git remote add origin repository link (paste)
+git push origin master/main--git push origin main --force
+
+------------------------------------------------------------
+
